@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mobilepro:war">
+    <output-path>$PROJECT_DIR$/mobilepro/target</output-path>
+    <root id="archive" name="mobilepro.war">
+      <element id="artifact" artifact-name="mobilepro:war exploded" />
+    </root>
+  </artifact>
+</component>

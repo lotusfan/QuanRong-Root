@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/androidpro" />
+    <file type="web" url="file://$PROJECT_DIR$/mobilepro" />
+    <file type="web" url="file://$PROJECT_DIR$/padpro" />
+    <file type="web" url="file://$PROJECT_DIR$/webpro" />
+    <file type="web" url="file://$PROJECT_DIR$/website_manager_pro" />
+    <file type="web" url="file://$PROJECT_DIR$/website_manager_pro" />
+  </component>
+  <component name="IdProvider" IDEtalkID="10D3919EA5C8159738C12FD18DEDE3FC" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="E:/workspace2/QuanRong/Jeesit/pom.xml" />
+        <option value="$PROJECT_DIR$/website_manager_pro/pom.xml" />
+        <option value="$PROJECT_DIR$/webpro/pom.xml" />
+        <option value="$PROJECT_DIR$/padpro/pom.xml" />
+        <option value="$PROJECT_DIR$/mobilepro/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/androidpro/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

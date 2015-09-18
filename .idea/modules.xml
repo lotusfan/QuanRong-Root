@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QuanRong-Root.iml" filepath="$PROJECT_DIR$/QuanRong-Root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilepro/mobilepro.iml" filepath="$PROJECT_DIR$/mobilepro/mobilepro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padpro/padpro.iml" filepath="$PROJECT_DIR$/padpro/padpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webpro/webpro.iml" filepath="$PROJECT_DIR$/webpro/webpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website_manager_pro/website_manager_pro.iml" filepath="$PROJECT_DIR$/website_manager_pro/website_manager_pro.iml" />
+    </modules>
+  </component>
+</project>

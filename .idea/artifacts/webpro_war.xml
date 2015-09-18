@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webpro:war">
+    <output-path>$PROJECT_DIR$/webpro/target</output-path>
+    <root id="archive" name="webpro.war">
+      <element id="artifact" artifact-name="webpro:war exploded" />
+    </root>
+  </artifact>
+</component>

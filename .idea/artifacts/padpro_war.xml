@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="padpro:war">
+    <output-path>$PROJECT_DIR$/padpro/target</output-path>
+    <root id="archive" name="padpro.war">
+      <element id="artifact" artifact-name="padpro:war exploded" />
+    </root>
+  </artifact>
+</component>
